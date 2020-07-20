@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqsTpJVYhq2oVtn2CrRepj5F9FPHB3blGsz93UwQzG+Y0C2wZfzzo3xsTxT0DVgOVIgPe20op2wDuFu817mMaw==",
+  "dgSpecHash": "mIlthLXQ6Jia0JifZdXuL8DBp/+eMDpO1ReJ1rIdOsl94QEJyBt1ATXHGzRZKCJESTPHU1SsBGYh4tu7WUZFqg==",
   "success": true,
-  "projectFilePath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
-  "expectedPackageFiles": [
-    "/home/fred/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/fred/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "/home/jskhatra/revature/2007_13_dotnet/csharp-challenge-jskhatra/csharp-challenge-jskhatra/Palindrome.Domain/Palindrome.Domain.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
